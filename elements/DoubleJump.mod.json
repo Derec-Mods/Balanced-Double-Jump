@@ -1,0 +1,12 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "SPACE",
+    "keyBindingName": "Double Jump",
+    "keyBindingCategoryKey": "movement",
+    "onKeyPressed": {
+      "name": "CheckPlayerInAir"
+    }
+  }
+}
