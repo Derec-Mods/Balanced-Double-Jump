@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "description": "Modify Double Jump Cost - Derec_",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 1
+  }
+}

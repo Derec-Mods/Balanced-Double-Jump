@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "description": "Toggle Double Jump Particles - Derec_",
+    "category": "MISC",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 1
+  }
+}

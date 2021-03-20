@@ -1,5 +1,6 @@
 modLoader="javafml"
-loaderVersion="[31,)"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
 
 [[mods]]
 modId="derecs_double_jump"
@@ -13,7 +14,7 @@ authors="noi01, MCreator"
 [[dependencies.derecs_double_jump]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.15.2]"
+    versionRange="[1.16.4]"
     ordering="NONE"
     side="BOTH"
 
