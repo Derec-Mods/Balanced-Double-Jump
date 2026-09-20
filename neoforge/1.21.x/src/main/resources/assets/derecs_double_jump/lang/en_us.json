@@ -1,0 +1,6 @@
+{
+  "key.derecs_double_jump.double_jump": "Double Jump",
+  "gamerule.doJumpSound": "Toggle Double Jump Sound - Derec_",
+  "gamerule.doJumpParticles": "Toggle Double Jump Particles - Derec_",
+  "gamerule.jumpCost": "Modify Double Jump Cost - Derec_"
+}
